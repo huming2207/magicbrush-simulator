@@ -7,3 +7,6 @@
 [submodule "lv_drivers"]
 	path = lv_drivers
 	url = https://github.com/littlevgl/lv_drivers.git 
+[submodule "MagicBrush"]
+	path = MagicBrush
+	url = git@github.com:huming2207/MagicBrush.git
